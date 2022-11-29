@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>ZTEST_P</NAME>
+    <NAME>ZRTEST_BOM</NAME>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
@@ -12,8 +12,8 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>Report ZTEST_P</ENTRY>
-     <LENGTH>14</LENGTH>
+     <ENTRY>TEST BOM</ENTRY>
+     <LENGTH>8</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
